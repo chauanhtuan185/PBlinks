@@ -1,8 +1,7 @@
 {
   "name": "pera-demo-dapp",
   "version": "0.1.0",
-  "homepage": "https://perawallet.github.io/pera-demo-dapp/",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@hipo/react-ui-toolkit": "1.0.0-beta",
     "@perawallet/connect": "^1.3.3",
